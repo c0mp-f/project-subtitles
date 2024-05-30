@@ -1,0 +1,631 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1888
+PlayResY: 1080
+YCbCr Matrix: TV.709
+Video Aspect Ratio: c1.8
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Alegreya Fake,70,&H00F6EBE6,&H0000FFFF,&H00241D16,&H80000000,-1,0,0,0,100,100,0,0,1,4,1,2,52,52,40,1
+Style: Alt,Alegreya Fake,70,&H00F6EBE6,&H0000FFFF,&H0006044F,&H80000000,-1,0,0,0,100,100,0,0,1,4,1,2,52,52,40,1
+Style: Thought,Alegreya Fake,70,&H00F6EBE6,&H0000FFFF,&H00241D16,&H80000000,-1,-1,0,0,100,100,0,0,1,3,0,2,52,52,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 149,0:03:16.94,0:03:22.24,Default,,0,0,0,,While some people liken it to a river,
+Dialogue: 149,0:03:22.24,0:03:24.98,Default,,0,0,0,,others claim it's a stream of milk.
+Dialogue: 149,0:03:25.60,0:03:29.96,Default,,0,0,0,,Can anyone here tell me\Nwhere this faint white glow comes from?
+Dialogue: 149,0:04:47.51,0:04:50.09,Default,QC,0,0,0,,On a clear night,\Nwhen you look at the night sky,{since its not really intelligible at this point, consider shifting the end of this line a handful more frames backwards so that it is easier to read -Moe}
+Dialogue: 149,0:04:50.09,0:04:54.39,Default,,0,0,0,,our galaxy looks like one great river.
+Dialogue: 149,0:04:54.39,0:04:59.41,Default,,0,0,0,,While some people liken it to a river,
+Dialogue: 149,0:04:59.41,0:05:02.95,Default,,0,0,0,,others claim it's a stream of milk.
+Dialogue: 149,0:05:02.95,0:05:06.41,Default,,0,0,0,,Can anyone here tell me\Nwhere this faint white glow comes from?
+Dialogue: 149,0:05:06.41,0:05:07.37,Default,,0,0,0,,Me!
+Dialogue: 149,0:05:07.37,0:05:09.86,Default,,0,0,0,,Me! Me! Me! Me!
+Dialogue: 149,0:05:11.81,0:05:14.18,Default,,0,0,0,,Me! Me! Me!
+Dialogue: 149,0:05:19.68,0:05:20.59,Default,,0,0,0,,Giovanni.
+Dialogue: 149,0:05:21.04,0:05:22.44,Default,,0,0,0,,Yes, sir.
+Dialogue: 149,0:05:22.44,0:05:27.77,Default,,0,0,0,,If you look at the galaxy through\Na telescope, what does it look like?
+Dialogue: 149,0:05:42.37,0:05:44.78,Default,,0,0,0,,{\an8}Giovanni was sleeping!
+Dialogue: 149,0:05:44.78,0:05:45.91,Default,QC,0,0,0,,{\an8}Same as always.{this line is a bit stilted, consider letting it play off the previous line more, such as "He always is.", "Same as always.", "Of course he was.", or whatever else comes to mind. -Moe}
+Dialogue: 149,0:05:45.91,0:05:49.48,Default,,0,0,0,,{\an8}He was late to school today. \NI think he was delivering papers.
+Dialogue: 149,0:05:49.48,0:05:50.41,Default,,0,0,0,,Campanella, then.
+Dialogue: 149,0:05:51.30,0:05:52.33,Default,,0,0,0,,Yes, sir.
+Dialogue: 149,0:05:55.65,0:05:57.70,Default,,0,0,0,,{\an8}What's Campanella doing?
+Dialogue: 149,0:05:57.70,0:05:58.72,Default,,0,0,0,,{\an8}What's with him?
+Dialogue: 149,0:05:58.72,0:06:02.63,Default,,0,0,0,,I saw Giovanni run by my house today.
+Dialogue: 149,0:06:02.63,0:06:05.34,Default,,0,0,0,,He was playing with Campanella's dog.
+Dialogue: 149,0:06:05.34,0:06:10.60,Default,QC,0,0,0,,Maybe Campanella is ignoring him,\Nso he has to settle for some mutt.{"settle for some mutt"}{"to settle for" seems like the better phrasing, "mutt" or not -Moe}
+Dialogue: 149,0:06:13.52,0:06:17.40,Default,,0,0,0,,All right. Sit down, the both of you.
+Dialogue: 149,0:06:17.87,0:06:23.12,Default,,0,0,0,,If you were to look at our\Ngalaxy through a telescope,
+Dialogue: 149,0:06:23.12,0:06:25.34,Default,,0,0,0,,you would see that it is made of stars.
+Dialogue: 149,0:06:25.34,0:06:27.41,Default,,0,0,0,,Right, Giovanni?
+Dialogue: 149,0:06:28.28,0:06:34.09,Default,QC,0,0,0,,Campanella only kept quiet so that Giovanni\Nwouldn't look stupid in front of the class.{seems like it should have more lead-in, starts during the line -Moe}
+Dialogue: 0,0:06:42.48,0:06:46.66,Thought,QC,0,0,0,,But I knew the answer. Campanella and I both knew.{consider "the answer" instead of "it". -Moe}
+Dialogue: 0,0:06:46.66,0:06:51.75,Thought,,0,0,0,,We had both looked at his father's\NGalaxy Atlas in the den of his house.
+Dialogue: 149,0:06:51.75,0:06:55.11,Default,,0,0,0,,...and if we extend\Nthe comparison further,
+Dialogue: 149,0:06:55.11,0:06:59.27,Default,,0,0,0,,these stars are like \Nlittle drops of fat floating in milk.
+Dialogue: 149,0:06:59.79,0:07:01.76,Default,,0,0,0,,With that in mind...
+Dialogue: 149,0:07:01.76,0:07:06.46,Default,,0,0,0,,Ever since his father went missing,\NGiovanni's been struggling in class.{Giovanni's so absentminded lately\Nbecause his father hasn't come back yet.}
+Dialogue: 149,0:07:06.46,0:07:09.66,Default,,0,0,0,,Isn't his dad coming back soon?
+Dialogue: 149,0:07:10.18,0:07:14.14,Default,,0,0,0,,No way! He went out to capture\Notters in the North Sea,
+Dialogue: 149,0:07:14.14,0:07:17.19,Default,,0,0,0,,but he was caught and thrown in jail!
+Comment: 149,0:07:15.50,0:07:17.83,Default,,0,0,0,,and they threw him in jail like\Na common criminal!
+Dialogue: 149,0:07:18.50,0:07:19.41,Default,QC,0,0,0,,Zanelli!{less leadout  -Moe}
+Dialogue: 149,0:07:22.18,0:07:25.91,Default,,0,0,0,,I was going to discuss the\Ntremendous size of the galaxy
+Dialogue: 149,0:07:25.91,0:07:30.41,Default,,0,0,0,,and the various types of stars in it,\Nbut it seems we're out of time for today.
+Dialogue: 149,0:07:30.95,0:07:32.74,Default,,0,0,0,,We'll talk about it in my next lecture.
+Dialogue: 149,0:07:39.19,0:07:41.88,Default,QC,0,0,0,,Remember, the Festival of Stars is tonight!{consider a more active phrasing, foregoing "is happening", such as "We're celebrating the Festival of Stars tonight!" (needs change in next line to avoid repetition), or "Don't forget about the Festival of Stars tonight!" -Moe}
+Dialogue: 149,0:07:41.88,0:07:44.82,Default,,0,0,0,,I encourage everyone to take part\Nin the celebration.
+Dialogue: 149,0:07:45.29,0:07:47.69,Default,,0,0,0,,And so, I hope to see you there!
+Dialogue: 149,0:07:51.75,0:07:53.99,Default,,0,0,0,,{\an8}Let's meet by the aspen trees at the school gate!
+Dialogue: 149,0:08:55.88,0:08:59.39,Default,,0,0,0,,Your father gave us this crab specimen as a gift.
+Dialogue: 149,0:08:59.95,0:09:01.73,Default,,0,0,0,,Hold it for me, would you?
+Dialogue: 149,0:09:02.78,0:09:08.43,Default,QC,0,0,0,,Your father also gave us the antlers\Nand those rare fossils you see here.{seems like too much lead-in -Moe}
+Comment: 149,0:09:05.06,0:09:08.43,Default,,0,0,0,,and those rare fossils\Nin this display case here.
+Dialogue: 149,0:09:09.10,0:09:12.05,Default,,0,0,0,,Anyways, have you heard from your father recently?
+Dialogue: 149,0:09:12.51,0:09:13.49,Default,,0,0,0,,No.
+Dialogue: 149,0:09:13.84,0:09:15.29,Default,,0,0,0,,I see.
+Dialogue: 149,0:09:15.74,0:09:17.45,Default,,0,0,0,,Well, stay strong.
+Dialogue: 149,0:09:17.45,0:09:18.35,Default,QC,0,0,0,,I'll try.{considering that the teacher is telling him to ganbare, maybe something with less determination here would be more appropriate, such as "I'll do my best.", or "I'll try to.", or "Thank you." if you are feeling adventurous. -Moe}
+Dialogue: 149,0:09:20.19,0:09:23.00,Default,,0,0,0,,I have some errands\Nto run on your side of town tomorrow.
+Dialogue: 149,0:09:23.00,0:09:28.05,Default,,0,0,0,,I'll stop by your house\Nand see how your mother's doing.
+Comment: 149,0:09:25.95,0:09:28.06,Default,,0,0,0,,and see how she's doing.
+Dialogue: 149,0:09:35.98,0:09:38.20,Default,,0,0,0,,Goodbye, sir.
+Dialogue: 149,0:09:38.20,0:09:40.18,Default,,0,0,0,,Until next time.
+Dialogue: 149,0:09:41.61,0:09:46.61,Default,,0,0,0,,Seems like your friends are making lanterns \Nto float on the river for the festival.{planning to make to float for the festival is just awfully jank + too many characters}
+Dialogue: 149,0:09:47.29,0:09:49.53,Default,,0,0,0,,Yeah, but I won't be able to...
+Dialogue: 149,0:09:49.93,0:09:52.70,Default,,0,0,0,,Oh, right. You have to work.
+Dialogue: 149,0:09:53.81,0:09:57.03,Default,,0,0,0,,But maybe if I do my work quickly,
+Dialogue: 149,0:09:57.03,0:09:59.08,Default,,0,0,0,,I can go to the river and watch afterwards.
+Dialogue: 149,0:09:59.41,0:10:00.76,Default,,0,0,0,,Best of luck with that.
+Dialogue: 149,0:10:00.76,0:10:01.52,Default,,0,0,0,,Thanks!
+Dialogue: 149,0:10:06.50,0:10:08.96,Default,,0,0,0,,{\an8}Yeah! I know how to make them!
+Dialogue: 149,0:10:08.96,0:10:09.72,Default,,0,0,0,,{\an8}Where should we meet?
+Dialogue: 149,0:10:09.72,0:10:11.14,Default,,0,0,0,,{\an8}Near the steps by the river!
+Dialogue: 149,0:10:11.14,0:10:12.13,Default,,0,0,0,,{\an8}Let's use blue candles!
+Dialogue: 149,0:10:12.13,0:10:15.44,Default,,0,0,0,,{\an8}It'll be easy! My father showed me how to do it!
+Dialogue: 149,0:10:15.44,0:10:17.80,Default,,0,0,0,,{\an8}Then you're in charge.
+Dialogue: 149,0:10:17.80,0:10:20.51,Default,QC,0,0,0,,{\an8}But do it before the festival.{sanity check: I'm pretty sure "festival" isn't capitalised here unlike when it comes up with the full name, where it would be a proper noun (here it's just a standard noun) -Moe}
+Dialogue: 149,0:10:20.51,0:10:23.14,Default,,0,0,0,,{\an8}We can start at Campanella's\Nthen walk to the town commons!
+Dialogue: 149,0:10:23.14,0:10:25.26,Default,,0,0,0,,{\an8}Can I bring my little sister?
+Dialogue: 149,0:10:59.74,0:11:00.97,Default,,0,0,0,,Sorry I'm late.
+Dialogue: 149,0:11:17.64,0:11:19.68,Default,,0,0,0,,Hello, sir.
+Dialogue: 149,0:11:21.58,0:11:23.00,Default,,0,0,0,,Do you have any work for me?
+Dialogue: 149,0:11:29.89,0:11:31.92,Default,,0,0,0,,Can you set this up?
+Dialogue: 149,0:11:33.10,0:11:34.21,Default,,0,0,0,,Yes.
+Dialogue: 149,0:12:16.17,0:12:18.93,Default,,0,0,0,,Hey there, shrimp.\NKeep up the good work!
+Dialogue: 149,0:13:55.10,0:13:57.36,Default,,0,0,0,,Excuse me, sir. I finished.
+Dialogue: 149,0:14:15.55,0:14:16.91,Default,,0,0,0,,Thank you.
+Dialogue: 149,0:16:22.89,0:16:27.62,Default,,0,0,0,,I need to keep my ticket safe.
+Dialogue: 149,0:16:27.62,0:16:30.34,Default,,0,0,0,,I wouldn't be able to board the train without it.
+Dialogue: 149,0:16:45.89,0:16:46.69,Default,,0,0,0,,Excuse me...
+Dialogue: 149,0:16:51.24,0:16:53.24,Default,,0,0,0,,Sugar and a loaf of bread, please.
+Dialogue: 149,0:17:03.85,0:17:06.16,Default,QC,0,0,0,,Here. A loaf of bread and cube sugar.{I don't think skipping the indefinite article for loaf of bread here is grammatical. Consider either "A/One loaf of bread" or "Your loaf of bread". -Moe}
+Dialogue: 149,0:17:06.16,0:17:07.13,Default,,0,0,0,,Thank you.
+Dialogue: 149,0:17:23.50,0:17:25.32,Default,,0,0,0,,Here's your change.
+Dialogue: 149,0:17:31.48,0:17:32.53,Default,,0,0,0,,Thank you.
+Dialogue: 149,0:17:57.73,0:18:00.36,Default,,0,0,0,,I'm home now, Mom.
+Dialogue: 149,0:18:03.57,0:18:05.12,Default,,0,0,0,,How are you feeling?
+Dialogue: 149,0:18:07.90,0:18:11.01,Default,,0,0,0,,Is that you, Giovanni? I'm glad you're home.
+Dialogue: 149,0:18:12.06,0:18:15.64,Default,,0,0,0,,I felt much better today. The weather was so cool.
+Dialogue: 149,0:18:20.11,0:18:24.33,Default,,0,0,0,,I got some sugar to put in your milk.\NI thought you'd like that.
+Dialogue: 149,0:18:26.67,0:18:28.92,Default,,0,0,0,,When did Sis get home?
+Dialogue: 149,0:18:29.20,0:18:33.68,Default,,0,0,0,,Around 3 o'clock.\NShe tidied up the place for me.
+Dialogue: 149,0:18:37.56,0:18:40.47,Default,,0,0,0,,Was your milk not delivered today?
+Dialogue: 149,0:18:41.22,0:18:43.14,Default,QC,0,0,0,,Now that you mention it, it wasn't.{This would only make sense if the previous line was "Was there no milk delivered today?" or similar, consider "it wasn't" instead. -Moe}
+Dialogue: 149,0:18:43.64,0:18:46.06,Default,,0,0,0,,I'll go and pick it up for you.
+Dialogue: 149,0:18:46.42,0:18:50.78,Default,,0,0,0,,It's okay, I'm in no rush.\N Go ahead and eat first.
+Dialogue: 149,0:18:51.45,0:18:55.49,Default,,0,0,0,,Your sister made tomato soup.\NThere should be some leftovers somewhere over there.
+Dialogue: 149,0:18:56.09,0:18:58.62,Default,,0,0,0,,Okay. I'll have a little then.
+Dialogue: 149,0:19:10.17,0:19:11.00,Default,,0,0,0,,Hey, Mom...
+Dialogue: 149,0:19:18.64,0:19:23.39,Default,,0,0,0,,I feel like Dad'll be back any day now.
+Dialogue: 149,0:19:24.07,0:19:26.60,Default,,0,0,0,,Yes. I think so too.
+Dialogue: 149,0:19:26.60,0:19:30.78,Default,,0,0,0,,This morning I read some of the papers\N I was delivering.
+Dialogue: 149,0:19:32.36,0:19:36.59,Default,,0,0,0,,They said the fishing was\Nreally good in the north this year.
+Dialogue: 149,0:19:38.33,0:19:43.81,Default,,0,0,0,,Well, your father might not have gone fishing. {reword}
+Dialogue: 149,0:19:43.81,0:19:47.74,Default,,0,0,0,,I'm sure he did. He wouldn't\Ndo anything illegal.
+Dialogue: 149,0:19:47.74,0:19:49.96,Default,,0,0,0,,You know that he isn't like that.
+Dialogue: 149,0:19:50.37,0:19:52.26,Default,,0,0,0,,Like, all those other times when...
+Dialogue: 149,0:19:54.08,0:19:59.01,Default,,0,0,0,,he gave small gifts to the school,\Nlike that crab shell, and the antlers.
+Dialogue: 149,0:20:00.98,0:20:03.18,Default,,0,0,0,,The school still has them on display.
+Dialogue: 149,0:20:07.51,0:20:12.57,Default,,0,0,0,,Your father promised to bring you\Nan otter-skin coat, didn't he?
+Dialogue: 149,0:20:20.26,0:20:23.51,Default,,0,0,0,,The kids at school always \Nbring that up to try and bother me.{The kids at school say that.\NThey're always making fun of me.}
+Dialogue: 149,0:20:25.90,0:20:28.03,Default,,0,0,0,,Are they bullying you?
+Dialogue: 149,0:20:30.40,0:20:33.04,Default,,0,0,0,,Campanella's still nice to me, at least.
+Dialogue: 149,0:20:35.74,0:20:42.11,Default,,0,0,0,,Campanella's father and your father \Nhave been friends ever since they were kids.
+Comment: 149,0:20:38.92,0:20:42.11,Default,,0,0,0,,have been friends\Nsince they were very young.
+Dialogue: 149,0:20:43.76,0:20:47.99,Default,,0,0,0,,Dad used to take me over to\NCampanella's house to play sometimes.
+Dialogue: 149,0:20:51.76,0:20:54.03,Default,,0,0,0,,Things were nice back then.
+Dialogue: 149,0:20:59.32,0:21:03.58,Default,,0,0,0,,You know Campanella has a wonderful\Ntoy steam train that runs on alcohol.
+Dialogue: 149,0:21:11.69,0:21:14.17,Default,,0,0,0,,Isn't the Festival of Stars tonight?
+Dialogue: 149,0:21:17.09,0:21:21.59,Default,,0,0,0,,Yeah. I'm going to the festival after\NI get your milk from the dairy.
+Dialogue: 149,0:21:22.30,0:21:24.68,Default,,0,0,0,,Good. Have fun.
+Dialogue: 149,0:21:24.68,0:21:26.52,Default,,0,0,0,,Stay away from the river, okay?
+Dialogue: 149,0:21:27.68,0:21:31.44,Default,,0,0,0,,I'll watch from the shore.\NI'll be back in an hour or so.
+Dialogue: 149,0:21:32.42,0:21:34.17,Default,,0,0,0,,Take your time.
+Dialogue: 149,0:21:34.17,0:21:37.36,Default,,0,0,0,,As long as you're with Campanella, I'll be fine.
+Dialogue: 149,0:21:38.16,0:21:39.61,Default,,0,0,0,,All right, I'll stick with him.
+Dialogue: 149,0:21:41.94,0:21:44.95,Default,,0,0,0,,In that case, maybe I'll stay out \Nfor an hour and a half.
+Dialogue: 149,0:23:05.74,0:23:07.24,Default,,0,0,0,,Zanelli!
+Dialogue: 149,0:23:08.80,0:23:10.41,Default,,0,0,0,,Are you going to the town commons?
+Dialogue: 149,0:23:13.59,0:23:17.38,Default,,0,0,0,,How's that otter-skin coat coming along, Giovanni?
+Dialogue: 149,0:23:55.79,0:23:58.70,Default,,0,0,0,,Why is he always like this?
+Dialogue: 0,0:25:00.52,0:25:07.21,Thought,QC,0,0,0,,While this may resemble a stream of milk,\N it is actually where our galaxy resides.{Some people see the galaxy\Nas a giant river of milk,}{consider \N after "milk," -Moe}
+Comment: 0,0:25:04.43,0:25:10.04,Thought,,0,0,0,,and all of these stars are like drops of oil, \Nfloating in that sea of milk.
+Dialogue: 0,0:25:07.21,0:25:16.20,Thought,,0,0,0,,Here, where we live, exists among the stars\Nlike drops of fat floating in milk.
+Comment: 0,0:25:07.23,0:25:10.19,Thought,,0,0,0,,floating in that sea of milk.
+Comment: 0,0:25:13.41,0:25:16.47,Thought,,0,0,0,,Our sun and the Earth itself\Nfloat within this sea like drops of oil.
+Dialogue: 0,0:25:16.34,0:25:21.02,Thought,,0,0,0,,You could even say that we all live\N in the waters of the river of heaven...
+Dialogue: 149,0:25:28.55,0:25:31.95,Default,,0,0,0,,{\an8}The Centaurus Festival! It's up ahead!
+Dialogue: 149,0:25:31.95,0:25:33.81,Default,QC,0,0,0,,{\an8} Let's go! {fuck it}{if you don't like the repetition just go with "Let's go!" instead here}
+Dialogue: 0,0:25:37.91,0:25:42.40,Thought,,0,0,0,,Oh yeah, I was supposed to get milk for Mom.
+Dialogue: 149,0:27:36.46,0:27:37.68,Default,,0,0,0,,Hello.
+Dialogue: 149,0:27:43.73,0:27:45.39,Default,,0,0,0,,Hello?
+Dialogue: 149,0:27:57.32,0:28:02.74,Default,,0,0,0,,Excuse me, we didn't get our milk today,\N so I'm here to pick it up.{Um, I'm sorry to bother you\Nbut we didn't get our milk today,}
+Comment: 149,0:28:01.57,0:28:02.74,Default,,0,0,0,,so I came to get it.
+Dialogue: 149,0:28:08.11,0:28:11.34,Default,,0,0,0,,So, I'd like to pick up our milk.
+Dialogue: 149,0:28:13.21,0:28:16.47,Default,,0,0,0,,No one's here right now.
+Dialogue: 149,0:28:16.47,0:28:18.68,Default,,0,0,0,,Come back tomorrow.
+Dialogue: 149,0:28:20.10,0:28:22.68,Default,,0,0,0,,I'm sorry, but I really need to get it tonight!
+Dialogue: 149,0:28:24.23,0:28:27.14,Default,,0,0,0,,Are you afraid you're going to miss the train?{だれか汽車にでも乗るんですか}
+Dialogue: 149,0:28:28.71,0:28:32.36,Default,,0,0,0,,No, but my mother's sick\Nand she really needs it tonight.
+Dialogue: 149,0:28:32.36,0:28:36.98,Default,,0,0,0,,I see. Well, come back a little later.
+Dialogue: 149,0:29:43.72,0:29:47.02,Default,,0,0,0,,Hey, Giovanni! I can't wait to see\Nyour new otter-skin coat!
+Dialogue: 149,0:29:47.02,0:29:52.05,Default,,0,0,0,,{\3c&H00743E15}We can't wait to see your new otter-skin coat!\N{\3c&H00241D16}We can't wait to see your new otter-skin coat!
+Comment: 149,0:29:49.35,0:29:52.05,Default,,0,0,0,,We can't wait to see your new otter-skin coat!
+Dialogue: 149,0:30:19.25,0:30:21.04,Default,,0,0,0,,{\an8}Oh, dear. Is he okay?
+Dialogue: 0,0:34:03.75,0:34:09.70,Thought,,0,0,0,,Every light up there\N in that glowing band is actually a star.
+Dialogue: 149,0:35:38.98,0:35:45.00,Default,,0,0,0,,Galaxy Station! Galaxy Station!
+Dialogue: 149,0:36:45.40,0:36:47.01,Default,,0,0,0,,Campanella!
+Dialogue: 149,0:36:49.76,0:36:54.61,Default,,0,0,0,,The others tried following me,\Nbut they were just too late.
+Dialogue: 149,0:36:55.74,0:36:59.17,Default,,0,0,0,,Even Zanelli.\NHe ran as fast as he could...
+Dialogue: 149,0:36:59.88,0:37:00.99,Default,QC,0,0,0,,but he wasn't fast enough.{omit the "just" for CPS -Moe}
+Dialogue: 149,0:37:01.51,0:37:03.96,Default,,0,0,0,,Are they waiting for you somewhere?
+Dialogue: 149,0:37:03.96,0:37:05.95,Default,,0,0,0,,Zanelli's already gone home.
+Dialogue: 149,0:37:08.14,0:37:10.49,Default,,0,0,0,,His father came by to get him.
+Dialogue: 149,0:37:14.84,0:37:15.88,Default,,0,0,0,,What's that?
+Dialogue: 149,0:37:16.68,0:37:21.10,Default,,0,0,0,,It looks like your coat\Ngot wet with dew or something.
+Dialogue: 149,0:37:21.10,0:37:24.39,Default,,0,0,0,,Darn it! I must have dropped my canteen somewhere.
+Dialogue: 149,0:37:25.56,0:37:26.93,Default,,0,0,0,,But that's okay.
+Dialogue: 149,0:37:27.67,0:37:29.99,Default,,0,0,0,,Swan Station is coming up soon.
+Dialogue: 149,0:37:30.85,0:37:33.23,Default,,0,0,0,,I love observing swans.
+Dialogue: 149,0:37:34.41,0:37:38.48,Default,,0,0,0,,I can spot them from miles away,\Nas they glide across the river.
+Dialogue: 149,0:37:38.48,0:37:42.02,Default,,0,0,0,,What a neat map!\NWhere did you get it?
+Dialogue: 149,0:37:42.80,0:37:45.08,Default,,0,0,0,,It looks like it's made out of obsidian!
+Dialogue: 149,0:37:45.82,0:37:50.00,Default,QC,0,0,0,,I got it at the Galaxy Station.\NDidn't you get one?{the "too" might be superfluous -Moe}
+Dialogue: 149,0:37:51.43,0:37:54.92,Default,,0,0,0,,I don't really remember\Nbeing at the Galaxy Station.
+Dialogue: 149,0:37:56.87,0:37:59.84,Default,,0,0,0,,Hey, this spot is where we are right now, isn't it?
+Dialogue: 149,0:38:00.85,0:38:01.87,Default,,0,0,0,,Yeah.
+Dialogue: 149,0:38:07.38,0:38:09.77,Default,,0,0,0,,The riverbed is shining in the moonlight.
+Dialogue: 149,0:38:19.40,0:38:22.90,Default,,0,0,0,,That's not moonlight!\NIt's the glow of the galaxy.
+Dialogue: 149,0:38:32.38,0:38:33.75,Default,,0,0,0,,What is it?
+Dialogue: 149,0:38:33.75,0:38:39.08,Default,,0,0,0,,I didn't think we'd get a chance\Nto go off on our own tonight.
+Comment: 149,0:38:37.58,0:38:39.06,Default,,0,0,0,,I mean, did you?
+Dialogue: 149,0:38:39.57,0:38:42.70,Default,,0,0,0,,Are you saying you thought\Nwe'd be with everyone from school?
+Dialogue: 149,0:38:42.70,0:38:44.76,Default,QC,0,0,0,,Not exactly. It doesn't matter, anyway.{this phrasing seems a bit stilted, consider "Not quite.(..) b/But nevermind." or similar -Moe}
+Dialogue: 149,0:38:49.42,0:38:52.64,Default,,0,0,0,,Look, these must be the fields of heaven!
+Dialogue: 149,0:39:11.97,0:39:15.42,Default,,0,0,0,,This train doesn't burn coal, does it?
+Dialogue: 149,0:39:15.42,0:39:17.82,Default,,0,0,0,,It must run on alcohol or electricity.
+Dialogue: 149,0:39:19.47,0:39:22.80,Default,,0,0,0,,Look, the gentian flowers are blooming.
+Dialogue: 149,0:39:25.75,0:39:27.17,Default,,0,0,0,,It's finally autumn...
+Dialogue: 149,0:39:58.16,0:40:00.76,Default,,0,0,0,,I'm going to jump out\Nand pick some of them!
+Dialogue: 149,0:40:00.76,0:40:02.77,Default,,0,0,0,,I promise I'll be right back, okay?
+Dialogue: 149,0:40:04.00,0:40:08.09,Default,,0,0,0,,You missed your chance. They're too far away now.{It's too late. We've already left them far behind.}
+Dialogue: 149,0:40:45.65,0:40:46.38,Default,,0,0,0,,Hey...
+Dialogue: 149,0:40:47.02,0:40:50.30,Default,,0,0,0,,I hope my mother forgives me for this.
+Dialogue: 0,0:41:06.53,0:41:12.88,Thought,,0,0,0,,We're probably a really long way from home now.
+Dialogue: 0,0:41:12.88,0:41:15.74,Thought,,0,0,0,,I hope Mom isn't worrying about me.
+Dialogue: 149,0:41:20.02,0:41:25.94,Default,,0,0,0,,You know, I would do anything\Nin the world to make my mother happy.
+Dialogue: 149,0:41:25.94,0:41:30.68,Default,QC,0,0,0,,But sometimes I wonder if there's something\NI could do to give her true happiness.{the question mark seems inappropriate, period would do just fine. -Moe}
+Dialogue: 149,0:41:31.18,0:41:33.52,Default,QC,0,0,0,,I'm sure your mother is happy.{consider removing the "What?" -Moe}
+Dialogue: 149,0:41:33.52,0:41:35.51,Default,,0,0,0,,Why do you think she wouldn't be?
+Dialogue: 149,0:41:36.27,0:41:38.06,Default,,0,0,0,,I don't know how to explain it...
+Dialogue: 149,0:41:39.08,0:41:44.24,Default,,0,0,0,,But I think people are happiest\Nwhen they do something truly good.
+Dialogue: 149,0:41:44.24,0:41:47.99,Default,,0,0,0,,That's why I think my mother\Nwill forgive me for what I've done.
+Dialogue: 149,0:43:18.07,0:43:20.41,Default,,0,0,0,,It looks like we'll be at Swan Station soon!
+Dialogue: 149,0:43:20.41,0:43:23.29,Default,,0,0,0,,We'll arrive at exactly 11 o'clock.
+Dialogue: 149,0:43:42.48,0:43:44.43,Default,,0,0,0,,Wanna go explore outside?
+Dialogue: 149,0:44:02.36,0:44:04.29,Default,,0,0,0,,Let's walk around a little bit.
+Dialogue: 149,0:44:10.38,0:44:13.42,Default,,0,0,0,,What a huge station!
+Dialogue: 149,0:44:25.44,0:44:29.17,Default,,0,0,0,,Where'd everyone go? There's no one here.
+Dialogue: 149,0:44:30.86,0:44:32.24,Default,,0,0,0,,Good question.
+Dialogue: 149,0:44:57.76,0:44:58.55,Default,,0,0,0,,Where should we go?
+Dialogue: 149,0:44:59.69,0:45:01.36,Default,,0,0,0,,Straight ahead!
+Dialogue: 149,0:45:01.36,0:45:02.51,Default,,0,0,0,,All right, let's go!
+Dialogue: 149,0:45:12.32,0:45:13.07,Default,,0,0,0,,What is it?
+Dialogue: 149,0:45:13.69,0:45:15.32,Default,,0,0,0,,There's a tiny door there.
+Dialogue: 149,0:45:16.97,0:45:18.73,Default,,0,0,0,,Should we open it?
+Dialogue: 149,0:45:18.73,0:45:19.87,Default,,0,0,0,,Why not?
+Dialogue: 149,0:45:32.56,0:45:36.59,Default,,0,0,0,,It goes on for a while. Think we should go down?
+Dialogue: 149,0:45:36.59,0:45:37.80,Default,,0,0,0,,Let's do it.
+Dialogue: 149,0:45:46.23,0:45:47.83,Default,,0,0,0,,It's a town commons.
+Dialogue: 149,0:45:59.34,0:46:01.46,Default,QC,0,0,0,,Nobody's here, either.{Consider "Nobody's here, either." -Moe}
+Dialogue: 149,0:46:02.66,0:46:03.87,Default,,0,0,0,,Looks like it.
+Dialogue: 149,0:46:05.06,0:46:06.49,Default,,0,0,0,,Something's written over there.
+Dialogue: 149,0:46:14.17,0:46:17.62,Default,QC,0,0,0,,"This way to the Pliocene Coast."\NLet's check it out!{consider "Let's check it out!" -Moe}
+Dialogue: 149,0:46:24.70,0:46:26.89,Default,,0,0,0,,These look like the steps by our river.
+Dialogue: 149,0:46:41.29,0:46:44.21,Default,,0,0,0,,How far down do you think it goes?
+Dialogue: 149,0:46:45.56,0:46:47.74,Default,,0,0,0,,I don't know.
+Dialogue: 149,0:47:33.99,0:47:37.42,Default,,0,0,0,,Every grain of sand is a crystalline jewel.
+Dialogue: 149,0:47:39.76,0:47:42.30,Default,,0,0,0,,There's a small ember inside each grain.
+Dialogue: 149,0:47:52.57,0:47:53.89,Default,,0,0,0,,There's someone over there!
+Dialogue: 149,0:47:55.96,0:47:56.65,Default,QC,0,0,0,,Let's follow them!{If you decided to change the line a few minutes ago to this, consider "Let's follow them!" here. -Moe}
+Dialogue: 149,0:48:26.02,0:48:27.60,Default,,0,0,0,,What is it?
+Dialogue: 149,0:48:27.60,0:48:31.38,Default,,0,0,0,,It's a walnut!\NJust look, they're everywhere!
+Dialogue: 149,0:48:35.97,0:48:37.98,Default,,0,0,0,,That's a big one!
+Dialogue: 149,0:48:38.57,0:48:41.11,Default,,0,0,0,,It's twice as big as a normal walnut.
+Dialogue: 149,0:48:41.11,0:48:42.86,Default,,0,0,0,,And it's in perfect shape!
+Dialogue: 149,0:48:48.64,0:48:49.87,Default,QC,0,0,0,,Let's go check that out!{If the previous line was changed, upholding the repetition here could be something to consider. -Moe}
+Dialogue: 149,0:48:51.03,0:48:53.16,Default,,0,0,0,,I think they're digging something up.
+Dialogue: 149,0:49:17.55,0:49:20.25,Default,,0,0,0,,Remember, be careful near that outcropping!
+Dialogue: 149,0:49:20.25,0:49:25.05,Default,,0,0,0,,Use the shovel!\NYou'd better dig a little farther back!
+Dialogue: 149,0:49:25.05,0:49:28.62,Default,,0,0,0,,Careful, careful! You're being too rough!
+Dialogue: 149,0:49:39.21,0:49:41.20,Default,,0,0,0,,Are you here to observe?
+Dialogue: 149,0:49:41.20,0:49:41.96,Default,,0,0,0,,Yes!
+Dialogue: 149,0:49:43.11,0:49:45.21,Default,,0,0,0,,I see there that you have\Nfound yourself a walnut!
+Dialogue: 149,0:49:45.70,0:49:47.60,Default,,0,0,0,,There are tons of them around here.
+Dialogue: 149,0:49:47.60,0:49:51.05,Default,QC,0,0,0,,That walnut dates back to 1.2 million years ago.{dates to, not dates from -Moe}
+Dialogue: 149,0:49:51.05,0:49:53.35,Default,,0,0,0,,Over a million years?
+Dialogue: 149,0:49:54.14,0:49:56.90,Default,,0,0,0,,This beach is 1.2 million years old. {We've dated these rocks.}
+Dialogue: 149,0:49:56.90,0:49:59.52,Default,,0,0,0,,That dates it to shortly after the Tertiary era.{They come from the Tertiary Era,\N1.2 million years ago.}
+Dialogue: 149,0:50:00.70,0:50:04.69,Default,,0,0,0,,Be careful with that chisel! Not so hard!
+Dialogue: 149,0:50:05.21,0:50:12.21,Default,,0,0,0,,We've carving out an ancient animal called a vos,\N which was the ancestor of our modern cow.
+Comment: 149,0:50:08.06,0:50:12.37,Default,,0,0,0,,which was the\Nancestor of our modern cow.
+Dialogue: 149,0:50:12.41,0:50:14.21,Default,,0,0,0,,Will you put it on display?
+Dialogue: 149,0:50:14.21,0:50:17.66,Default,QC,0,0,0,,No, this is purely for the sake of research.{seems like a little too much lead-in  -Moe}
+Dialogue: 149,0:50:18.29,0:50:22.45,Default,,0,0,0,,To us, this looks like a thick,\Nrich, fossil stratum.
+Dialogue: 149,0:50:22.45,0:50:26.50,Default,,0,0,0,,There's plenty of evidence \Nindicating that it's 1.2 million years old.
+Dialogue: 149,0:50:28.12,0:50:31.58,Default,,0,0,0,,To others, this region might\Nlook completely different.
+Dialogue: 149,0:50:31.58,0:50:34.61,Default,,0,0,0,,It all depends on\Nwho might be looking at it.
+Dialogue: 149,0:50:37.40,0:50:42.56,Default,,0,0,0,,To someone else, this whole area\Nmight appear to be air, water,
+Dialogue: 149,0:50:42.88,0:50:44.70,Default,,0,0,0,,or an empty patch of sky.
+Dialogue: 149,0:50:48.64,0:50:51.75,Default,,0,0,0,,Do you understand? Still...
+Dialogue: 149,0:50:51.75,0:50:54.45,Default,,0,0,0,,Hey, stop! Don't use the shovel there!
+Dialogue: 149,0:50:54.81,0:50:56.64,Default,,0,0,0,,That ground is too soft!
+Dialogue: 149,0:50:56.64,0:50:59.33,Default,,0,0,0,,Understood!
+Dialogue: 149,0:51:02.24,0:51:03.57,Default,,0,0,0,,It's time to go!
+Dialogue: 149,0:51:03.57,0:51:05.33,Default,,0,0,0,,But I want to see a little more.
+Dialogue: 149,0:51:05.76,0:51:08.17,Default,,0,0,0,,We can't. We'll miss the train if we stay.
+Dialogue: 149,0:51:08.62,0:51:09.77,Default,,0,0,0,,Let's go!
+Dialogue: 149,0:51:10.58,0:51:12.04,Default,,0,0,0,,Thanks a lot!
+Dialogue: 149,0:51:12.04,0:51:14.65,Default,,0,0,0,,Very well then. Goodbye.
+Dialogue: 149,0:51:38.05,0:51:40.82,Default,,0,0,0,,What? The whole town has changed.
+Dialogue: 149,0:51:45.04,0:51:46.84,Default,,0,0,0,,Everything turned to stone.
+Dialogue: 149,0:51:48.66,0:51:49.67,Default,,0,0,0,,Hurry!
+Dialogue: 149,0:52:27.30,0:52:33.50,Default,,0,0,0,,We just had a sneak peek \Nof 1.2 million years of history!
+Dialogue: 149,0:52:33.50,0:52:34.38,Default,,0,0,0,,That was amazing.
+Dialogue: 149,0:52:36.17,0:52:39.09,Default,,0,0,0,,Wow, a whole 1.2 million years...
+Dialogue: 149,0:53:24.18,0:53:27.18,Default,,0,0,0,,Is it okay if I take a seat here?
+Dialogue: 149,0:53:27.53,0:53:28.98,Default,,0,0,0,,Yes, that's fine.
+Dialogue: 149,0:53:51.22,0:53:53.71,Default,,0,0,0,,Thank you for the help, young man.
+Dialogue: 149,0:54:32.53,0:54:35.63,Default,,0,0,0,,Where are you two headed off to?
+Dialogue: 149,0:54:37.14,0:54:38.93,Default,,0,0,0,,To the end of the universe!
+Dialogue: 149,0:54:39.44,0:54:40.84,Default,,0,0,0,,I see. Good for you!
+Dialogue: 149,0:54:41.60,0:54:44.59,Default,,0,0,0,,This train can actually take you there.
+Dialogue: 149,0:54:45.36,0:54:47.51,Default,,0,0,0,,And where is it that you're heading to?
+Dialogue: 149,0:54:47.51,0:54:52.89,Default,,0,0,0,,I'll be getting off promptly. I'm a birdcatcher, \Nso I'm going to catch birds at the next stop. {The next stop.\NI'm a birdcatcher so I get off at next stop.}
+Dialogue: 149,0:54:52.89,0:54:55.27,Default,,0,0,0,,What do you do with the birds\Nafter you catch them?
+Dialogue: 149,0:54:55.78,0:54:59.48,Default,,0,0,0,,You eat them. Haven't you tried bird before?
+Dialogue: 149,0:55:13.67,0:55:17.29,Default,,0,0,0,,Here, try some. I just caught these herons yesterday.
+Dialogue: 149,0:55:22.15,0:55:24.05,Default,,0,0,0,,People really eat these?
+Dialogue: 149,0:55:24.05,0:55:26.76,Default,,0,0,0,,Sure. I get orders for them every day.
+Dialogue: 149,0:55:27.84,0:55:29.81,Default,,0,0,0,,Who in the world could eat a heron?
+Dialogue: 149,0:55:30.26,0:55:34.48,Default,,0,0,0,,Everyone eats them!\NHere, why don't you try some yourself?
+Dialogue: 149,0:55:42.36,0:55:44.49,Default,,0,0,0,,Here you go.
+Dialogue: 149,0:55:46.16,0:55:48.58,Default,,0,0,0,,And some for you, too.
+Dialogue: 149,0:55:56.77,0:55:58.00,Default,,0,0,0,,Don't be shy.
+Dialogue: 149,0:56:04.92,0:56:06.72,Default,,0,0,0,,Well, go on!
+Dialogue: 149,0:56:11.92,0:56:13.88,Default,,0,0,0,,Oh, it's candy!
+Dialogue: 149,0:56:17.75,0:56:19.98,Default,,0,0,0,,Why don't you try it, too?
+Dialogue: 149,0:56:19.98,0:56:22.28,Default,,0,0,0,,Sure. Thanks a lot.
+Dialogue: 149,0:56:22.78,0:56:25.65,Default,,0,0,0,,What magnificent herons!
+Dialogue: 149,0:56:26.38,0:56:28.12,Default,,0,0,0,,Thank you very much.
+Dialogue: 149,0:56:29.10,0:56:32.70,Default,,0,0,0,,Say, what do you think about \Nthe migratory flocks this year?{Do you also think the migratory flocks\Nlook promising this year?}
+Dialogue: 149,0:56:33.26,0:56:35.57,Default,,0,0,0,,They're excellent this year.
+Dialogue: 149,0:56:35.57,0:56:38.29,Default,,0,0,0,,There are hordes of birds\Ncoming in from all over!
+Dialogue: 149,0:56:38.29,0:56:42.34,Default,,0,0,0,,Just a couple of days ago,\NI got some complaint calls.
+Dialogue: 149,0:56:42.34,0:56:47.48,Default,,0,0,0,,I was getting calls left and right,\Nsaying that I shouldn't mess with the light in the lighthouse.
+Dialogue: 149,0:56:47.48,0:56:49.80,Default,,0,0,0,,I told them I wasn't\Ndoing any such thing.
+Dialogue: 149,0:56:49.80,0:56:56.22,Default,,0,0,0,,There were huge flocks of birds in front\Nof the light, one right after another!
+Dialogue: 149,0:56:56.22,0:56:58.02,Default,,0,0,0,,I told those idiots,
+Dialogue: 149,0:56:58.02,0:57:01.52,Default,,0,0,0,,"If you wanna complain, then complain\Nto the big one who leads the flock."
+Dialogue: 149,0:57:01.52,0:57:07.42,Default,,0,0,0,,"He's easy to spot: long legs,\Na huge beak, and a rustling cape!"
+Dialogue: 149,0:57:07.42,0:57:10.22,Default,,0,0,0,,Yeah, that's what I told them.
+Dialogue: 149,0:57:13.33,0:57:17.09,Default,,0,0,0,,Ah, this is my stop.
+Dialogue: 149,0:57:33.61,0:57:36.27,Default,,0,0,0,,Hey, he's out there!
+Dialogue: 149,1:00:00.98,1:00:04.44,Default,,0,0,0,,Ah, that was refreshing!
+Dialogue: 149,1:00:04.44,1:00:10.04,Default,,0,0,0,,There's nothing more satisfying\Nthan hard work at a job you do well in.
+Dialogue: 149,1:00:14.50,1:00:17.09,Default,,0,0,0,,You have geese and heron.\NCan you get cranes?
+Dialogue: 149,1:00:17.60,1:00:21.10,Default,,0,0,0,,Sure, there's plenty of them all around.
+Dialogue: 149,1:00:21.10,1:00:23.83,Default,,0,0,0,,You can hear them now. Go on.
+Dialogue: 149,1:00:23.83,1:00:26.83,Default,,0,0,0,,Just listen carefully and you'll hear them.
+Dialogue: 149,1:01:11.73,1:01:13.69,Default,,0,0,0,,It's the wireless operator.
+Dialogue: 149,1:01:46.71,1:01:48.20,Default,,0,0,0,,Thank you.
+Dialogue: 149,1:01:48.77,1:01:51.31,Default,QC,0,0,0,,You can use me for support.{the "here," can be omitted -Moe}
+Dialogue: 149,1:02:18.10,1:02:19.55,Default,,0,0,0,,Is this the place?
+Dialogue: 149,1:02:19.55,1:02:21.84,Default,,0,0,0,,Yes. Thank you.
+Dialogue: 149,1:03:10.56,1:03:12.48,Default,,0,0,0,,Is it picking anything up?
+Dialogue: 149,1:03:17.62,1:03:19.32,Default,,0,0,0,,What do you hear?
+Dialogue: 149,1:03:19.69,1:03:21.58,Default,,0,0,0,,It's hard to tell.
+Dialogue: 149,1:03:21.58,1:03:25.46,Default,,0,0,0,,I've been picking this up for a while now,
+Dialogue: 149,1:03:25.46,1:03:27.28,Default,,0,0,0,,but I can't seem to decipher it.
+Dialogue: 149,1:03:27.28,1:03:29.65,Default,,0,0,0,,What does it sound like?
+Dialogue: 149,1:03:31.67,1:03:34.08,Default,,0,0,0,,Would you mind transcribing it for me?{Can you take dictation for me?}
+Dialogue: 149,1:03:34.76,1:03:36.00,Default,,0,0,0,,Sure.
+Dialogue: 149,1:03:42.97,1:03:47.37,Default,,0,0,0,,The static is pretty bad.
+Dialogue: 149,1:03:47.37,1:03:51.95,Default,,0,0,0,,"God... to... Thee... near..."
+Dialogue: 149,1:03:52.43,1:03:54.89,Default,,0,0,0,,There's more static.
+Dialogue: 149,1:03:54.89,1:04:01.94,Default,,0,0,0,,"Even... though... it... be... a... cross..."
+Dialogue: 149,1:04:02.46,1:04:06.72,Default,,0,0,0,,"—eth... me... still... all..."
+Dialogue: 149,1:04:06.72,1:04:13.78,Default,,0,0,0,,"my... song... shall... be..."
+Dialogue: 149,1:04:13.78,1:04:16.04,Default,,0,0,0,,It seems like that's all there is.
+Dialogue: 149,1:04:16.04,1:04:18.83,Default,,0,0,0,,Nothing but static after that.
+Dialogue: 149,1:04:24.34,1:04:25.72,Default,,0,0,0,,What does it mean?
+Dialogue: 149,1:04:25.70,1:04:35.27,Default,,0,0,0,,That signal has been coming in for a while now.\N It just keeps repeating over and over again.
+Comment: 149,1:04:31.78,1:04:35.27,Default,,0,0,0,,I can pick it up on the wireless.
+Dialogue: 149,1:04:36.45,1:04:41.67,Default,,0,0,0,,God to Thee near\Neven though it be a cross...
+Dialogue: 149,1:04:41.67,1:04:46.93,Default,,0,0,0,,—eth me still\Nall my song shall be...
+Dialogue: 149,1:04:57.44,1:04:59.14,Default,,0,0,0,,So what do you think it means?
+Dialogue: 149,1:04:59.14,1:05:00.74,Default,,0,0,0,,I don't know.
+Dialogue: 149,1:05:00.74,1:05:03.80,Default,,0,0,0,,Number 306.
+Dialogue: 149,1:05:06.21,1:05:10.05,Default,,0,0,0,,It's number 306.
+Dialogue: 149,1:05:10.66,1:05:12.45,Default,,0,0,0,,Number 306?
+Dialogue: 149,1:05:13.44,1:05:16.77,Default,,0,0,0,,Hymn number 306.
+Dialogue: 149,1:05:17.54,1:05:27.21,Default,,0,0,0,,Nearer, my God, to Thee, nearer to Thee!
+Dialogue: 149,1:05:27.21,1:05:36.13,Default,,0,0,0,,Even though it be a cross that raiseth me.
+Dialogue: 149,1:05:36.84,1:05:48.13,Default,,0,0,0,,Still all my song would be\Nnearer, my God, to Thee.
+Dialogue: 149,1:05:48.13,1:05:57.14,Default,,0,0,0,,Nearer, my God, to Thee, nearer to Thee!
+Dialogue: 149,1:05:59.08,1:06:03.87,Default,,0,0,0,,It's a prayer to be carried away to Heaven.
+Dialogue: 149,1:06:04.61,1:06:06.77,Default,,0,0,0,,Whose prayer?
+Dialogue: 149,1:06:07.32,1:06:08.97,Default,,0,0,0,,I don't know.
+Dialogue: 149,1:06:08.97,1:06:12.57,Default,,0,0,0,,But they probably know,\Nin the observatory at Albireo.
+Dialogue: 149,1:06:13.15,1:06:15.37,Default,,0,0,0,,The observatory at Albireo?
+Dialogue: 149,1:06:15.84,1:06:19.61,Default,,0,0,0,,We're already leaving the Swan constellation.
+Dialogue: 149,1:06:21.27,1:06:26.74,Default,,0,0,0,,You can see the observatory\Nat Albireo outside right now.
+Dialogue: 149,1:06:28.37,1:06:33.83,Default,,0,0,0,,Of course, they probably won't\Ngive you an answer.
+Dialogue: 149,1:07:31.97,1:07:41.48,Default,,0,0,0,,Nearer, my God, to Thee, nearer to Thee!
+Dialogue: 149,1:07:41.48,1:07:51.20,Default,,0,0,0,,Even though it be a cross that raiseth me.
+Dialogue: 149,1:07:51.20,1:08:01.95,Default,,0,0,0,,Still all my song would be\Nnearer, my God, to Thee.
+Dialogue: 149,1:08:01.95,1:08:10.94,Default,,0,0,0,,Nearer, my God, to Thee, nearer to Thee!
+Dialogue: 149,1:08:26.79,1:08:28.29,Default,,0,0,0,,Ticket inspection!
+Dialogue: 149,1:08:28.98,1:08:31.09,Default,,0,0,0,,Ticket inspection! Get your ticket ready.
+Dialogue: 149,1:08:33.42,1:08:35.38,Default,,0,0,0,,May I have your tickets, please?
+Dialogue: 149,1:09:13.11,1:09:15.09,Default,,0,0,0,,Here.
+Dialogue: 149,1:09:20.78,1:09:21.85,Default,,0,0,0,,Your ticket, please.
+Dialogue: 149,1:10:05.31,1:10:09.31,Default,,0,0,0,,Excuse me sir, did you get\Nthis ticket in the third dimension?
+Dialogue: 149,1:10:10.25,1:10:12.23,Default,,0,0,0,,I'm not really sure where I got it...
+Dialogue: 149,1:10:13.16,1:10:15.24,Default,,0,0,0,,Enjoy the rest of your trip.
+Dialogue: 149,1:10:16.02,1:10:21.01,Default,,0,0,0,,We will reach the Southern Cross\Nat precisely 3 o'clock.
+Dialogue: 149,1:10:28.50,1:10:30.52,Default,,0,0,0,,We have different tickets.{Our tickets aren't the same.}
+Dialogue: 149,1:10:31.79,1:10:34.68,Default,,0,0,0,,Does my ticket take me where you're going?
+Dialogue: 149,1:10:35.54,1:10:39.09,Default,,0,0,0,,Of course! That's an incredibly rare ticket!
+Dialogue: 149,1:10:39.09,1:10:42.94,Default,,0,0,0,,This ticket even grants you entrance\N to the Kingdom of Heaven!
+Dialogue: 149,1:10:42.94,1:10:44.97,Default,,0,0,0,,With that ticket, you can...
+Dialogue: 149,1:10:45.49,1:10:50.39,Default,,0,0,0,,Yeah, this kind of ticket should also take you \N anywhere this train runs!
+Dialogue: 149,1:10:50.39,1:10:54.41,Default,,0,0,0,,You must be very special indeed!
+Dialogue: 149,1:10:54.41,1:10:56.49,Default,,0,0,0,,I don't understand.
+Dialogue: 149,1:10:56.49,1:10:58.28,Default,,0,0,0,,Wait, are you...
+Dialogue: 149,1:10:58.28,1:10:59.32,Default,,0,0,0,,I knew it.
+Dialogue: 149,1:10:59.74,1:11:03.67,Default,,0,0,0,,I could tell you weren't \Nlike the others on this train.
+Dialogue: 149,1:11:03.67,1:11:07.73,Default,,0,0,0,,That's it, isn't it? You're...
+Dialogue: 149,1:11:08.23,1:11:11.21,Default,QC,0,0,0,,Jeez, you're one lucky guy.{I've never seen a ticket like that before!} {idk if this is good}{consider cutting the "Jeez, ", though it seems fine either way -Moe}
+Dialogue: 149,1:11:11.63,1:11:14.15,Default,,0,0,0,,Eagle Station's coming up soon.
+Dialogue: 149,1:11:15.82,1:11:18.55,Default,,0,0,0,,No matter where we go, we'll be together, right?
+Dialogue: 149,1:11:21.31,1:11:22.97,Default,,0,0,0,,Where did that man go?
+Dialogue: 149,1:11:43.66,1:11:44.86,Default,,0,0,0,,Where did he go?
+Dialogue: 149,1:11:51.80,1:11:56.16,Default,,0,0,0,,I wish I had spent more time talking to him.
+Dialogue: 149,1:11:58.00,1:12:01.83,Default,,0,0,0,,I kind of thought he was being a nuisance at first.
+Dialogue: 149,1:12:02.57,1:12:04.84,Default,,0,0,0,,But now I feel bad.
+Dialogue: 149,1:12:07.18,1:12:08.46,Default,,0,0,0,,Me, too.
+Dialogue: 149,1:12:39.44,1:12:41.63,Default,,0,0,0,,What an odd place to be smelling apples.
+Dialogue: 149,1:12:42.66,1:12:45.05,Default,,0,0,0,,Yeah, I smell them too.
+Dialogue: 149,1:13:04.15,1:13:05.23,Default,,0,0,0,,Thank you.
+Dialogue: 149,1:13:17.90,1:13:20.54,Default,QC,0,0,0,,The ship we were on hit a huge iceberg and sank.{consider \N after "on" -Moe}
+Dialogue: 149,1:13:21.53,1:13:24.21,Default,,0,0,0,,I was hired as a tutor to these children.
+Dialogue: 149,1:13:25.01,1:13:28.93,Default,QC,0,0,0,,We were traveling abroad when their\Nfather had a business emergency.{Two months ago, their father was\Ncalled home on business.}{in AmE the preferred spelling is "traveling" with one L -Moe}
+Dialogue: 149,1:13:29.26,1:13:31.98,Default,,0,0,0,,He had to leave ahead of schedule.
+Dialogue: 149,1:13:31.98,1:13:34.18,Default,,0,0,0,,We were about to join him.
+Dialogue: 149,1:13:43.75,1:13:47.28,Default,,0,0,0,,It was late at night, and we could\Nbarely see the moonlight.
+Dialogue: 149,1:13:47.92,1:13:50.42,Default,,0,0,0,,The fog was incredibly thick.
+Dialogue: 149,1:14:40.27,1:14:45.15,Default,,0,0,0,,Our ship hit an iceberg, \Nleaned over, and started to sink.
+Dialogue: 149,1:14:45.84,1:14:50.67,Default,,0,0,0,,The port side lifeboats were already underwater.
+Dialogue: 149,1:14:50.67,1:14:53.71,Default,,0,0,0,,There weren't enough boats for everyone.
+Dialogue: 149,1:14:57.39,1:15:01.64,Default,QC,0,0,0,,The people around us quickly stepped aside \Nto open a path and let us through.{consider \N after "aside" -Moe}
+Dialogue: 149,1:15:01.64,1:15:10.53,Default,,0,0,0,,Though, there were a lot of other \Nwomen and children who weren't on a lifeboat yet
+Comment: 149,1:15:07.40,1:15:10.53,Default,,0,0,0,,and not a lot of lifeboats. {redundant}
+Dialogue: 149,1:15:11.26,1:15:15.65,Default,,0,0,0,,Nonetheless, these children needed\Nto be saved no matter what.{I'm responsible for these two children.\NTheir father left them in my care.} {}
+Dialogue: 149,1:15:15.65,1:15:17.20,Default,,0,0,0,,That's supposed to be my job. {That's supposed to be my job.}
+Dialogue: 149,1:15:18.08,1:15:21.54,Default,,0,0,0,,I started to push through \Ngroups of children in front of us.
+Dialogue: 149,1:15:22.86,1:15:24.17,Default,,0,0,0,,But something got me thinking,
+Dialogue: 149,1:15:24.17,1:15:29.71,Default,QC,0,0,0,,maybe it'd be better for these children to meet God,\N together, than to live on at someone else's expense.{rather than being saved this way,} {not too happy about the passive but can't find many alternatives. Maybe "surviving this way"? "living on in this way"? But that makes it less clear that they're surviving by pushing past others.} {note: maybe "at someone elses expense"}{should be "else's" -Moe}
+Comment: 149,1:15:27.16,1:15:29.71,Default,,0,0,0,,maybe what would make those children truly happy
+Dialogue: 149,1:15:30.63,1:15:33.59,Default,,0,0,0,,It would help them attain true happiness, I thought.
+Dialogue: 149,1:15:34.62,1:15:37.67,Default,,0,0,0,,Going against God would be my sin to bear,{The "sin" here being pushing other people aside so they themselves can survive. At least that's how I understand it. Also, this line is super iteral and can/should be reworded}
+Dialogue: 149,1:15:38.19,1:15:42.40,Default,,0,0,0,,so I may as well do whatever it takes \Nto save these children.
+Dialogue: 149,1:15:42.91,1:15:46.94,Default,,0,0,0,,And so, I continued to wade through the crowd.
+Dialogue: 149,1:15:48.13,1:15:56.64,Default,,0,0,0,,But then, I saw mothers cramming their children\Ninto the lifeboats, with one last kiss,{lit. they're "children-only lifeboats" but that doesn't fit well here}{kind of a disregardable nuance imo}
+Dialogue: 149,1:15:56.64,1:16:02.83,Default,,0,0,0,,and fathers standing rigidly, \Ntrying desperately to hold back their tears.
+Dialogue: 149,1:16:03.43,1:16:06.60,Default,,0,0,0,,I couldn't, in good faith, continue.{idk if what she says is phatic enough}
+Dialogue: 149,1:16:06.60,1:16:10.47,Default,,0,0,0,,I decided that we would join \Nand float together for as long as possible.
+Dialogue: 149,1:16:11.00,1:16:14.45,Default,,0,0,0,,So I held them, and the three of us\Nwaited for the ship to sink.
+Dialogue: 149,1:16:41.02,1:16:43.73,Default,,0,0,0,,I'm not sure what happiness really is.
+Dialogue: 149,1:16:43.73,1:16:52.53,Default,,0,0,0,,But if you keep to the true path no matter what,\Nyou can climb any mountain, no matter how high.
+Comment: 149,1:16:44.80,1:16:47.69,Default,,0,0,0,,But if you keep to the true path, even under terrible conditions,
+Dialogue: 149,1:16:52.53,1:16:57.91,Default,,0,0,0,,I believe we can all reach true happiness,\N one step at a time.
+Dialogue: 149,1:16:59.04,1:17:00.05,Default,,0,0,0,,I agree.
+Dialogue: 149,1:17:01.48,1:17:04.87,Default,,0,0,0,,The path to true happiness \Nis plagued with hardship.
+Dialogue: 149,1:17:04.87,1:17:08.98,Default,QC,0,0,0,,We have to continue on, \Neven if we do so from the depths of our despair.{these two lines seem disjointed when they likely shouldn't be -Moe}
+Dialogue: 149,1:17:40.02,1:17:41.93,Default,,0,0,0,,Would you care for an apple?
+Dialogue: 149,1:17:46.85,1:17:48.90,Default,,0,0,0,,Oh, it's so beautiful.
+Dialogue: 149,1:17:49.43,1:17:51.44,Default,,0,0,0,,Take it, I insist.
+Dialogue: 149,1:17:56.23,1:17:58.77,Default,,0,0,0,,Would you folk like to share with me?
+Dialogue: 149,1:18:07.62,1:18:08.66,Default,,0,0,0,,Thank you.
+Dialogue: 149,1:18:14.57,1:18:15.80,Default,,0,0,0,,Thank you.
+Dialogue: 149,1:18:17.19,1:18:20.18,Default,,0,0,0,,Where do these beautiful apples come from?
+Dialogue: 149,1:18:20.54,1:18:26.24,Default,,0,0,0,,Around here, it seems to be sworn that good things \Ngrow on their own, regardless of agriculture.{Around here, things just seem to\Ngrow on their own, without effort.}
+Dialogue: 149,1:18:26.24,1:18:28.88,Default,,0,0,0,,It isn't a hard job to do.
+Dialogue: 149,1:18:28.88,1:18:34.56,Default,,0,0,0,,If you sow the proper seeds, \Nyou'll find they bloom fast and plentiful.
+Dialogue: 149,1:18:34.56,1:18:35.99,Default,,0,0,0,,I see.
+Dialogue: 149,1:18:35.99,1:18:40.39,Default,,0,0,0,,It's true for apples and even for candy.
+Dialogue: 149,1:18:48.77,1:18:52.62,Default,,0,0,0,,I just had a dream about my mother.
+Dialogue: 149,1:18:52.62,1:18:56.50,Default,,0,0,0,,She was just asking me\Nif I wanted a nice big red apple.
+Dialogue: 149,1:18:57.21,1:19:00.79,Default,,0,0,0,,Then, when I woke up, I was holding one!
+Dialogue: 149,1:19:02.13,1:19:06.14,Default,,0,0,0,,Oh, we're still on the train.
+Dialogue: 149,1:19:06.45,1:19:08.52,Default,,0,0,0,,What a beautiful apple!
+Dialogue: 149,1:19:13.08,1:19:14.69,Default,,0,0,0,,It smells delicious.
+Dialogue: 149,1:19:15.21,1:19:19.21,Default,,0,0,0,,I must have smelled it in my sleep.
+Dialogue: 149,1:19:48.01,1:19:49.26,Default,,0,0,0,,Look, crows!
+Dialogue: 149,1:19:50.82,1:19:52.02,Default,,0,0,0,,There's lots of them!
+Dialogue: 149,1:19:52.86,1:19:55.90,Default,,0,0,0,,Those aren't crows. They're magpies, actually.
+Dialogue: 149,1:19:56.95,1:19:58.02,Default,,0,0,0,,Oh, I see.
+Dialogue: 149,1:20:03.37,1:20:05.24,Default,,0,0,0,,So cool...
+Dialogue: 149,1:20:24.32,1:20:25.88,Default,,0,0,0,,Look! More apples!
+Dialogue: 149,1:20:54.29,1:20:56.64,Default,,0,0,0,,That's hymn 306.
+Dialogue: 149,1:20:56.64,1:20:59.29,Default,,0,0,0,,Those people in the forest out\Nthere are singing in chorus.
+Dialogue: 149,1:22:16.40,1:22:17.97,Default,QC,0,0,0,,Look! It's a cornfield!{consider just "cornfield", which is far more common usage -Moe}
+Dialogue: 149,1:22:22.48,1:22:24.04,Default,,0,0,0,,How nice. {"Cool." stupid ass cat}
+Dialogue: 149,1:22:32.47,1:22:34.30,Default,,0,0,0,,Hey look, here comes the station.
+Dialogue: 149,1:23:29.73,1:23:32.71,Default,,0,0,0,,That's the New World Symphony.
+Dialogue: 149,1:24:53.94,1:24:55.36,Default,,0,0,0,,What is it?
+Dialogue: 149,1:24:55.36,1:24:58.20,Default,,0,0,0,,There was a boy outside\Nstanding in front of a small house.
+Dialogue: 149,1:24:58.63,1:24:59.94,Default,,0,0,0,,Really?
+Dialogue: 149,1:25:01.96,1:25:04.83,Default,,0,0,0,,I think I know that boy.
+Dialogue: 149,1:25:05.77,1:25:07.21,Default,,0,0,0,,I know him, too.
+Dialogue: 149,1:25:08.32,1:25:10.67,Default,,0,0,0,,We must have met him somewhere before.
+Dialogue: 149,1:25:29.14,1:25:31.41,Default,,0,0,0,,Is this where we are now?
+Dialogue: 149,1:25:32.05,1:25:33.18,Default,,0,0,0,,It is.
+Dialogue: 149,1:25:37.08,1:25:39.03,Default,,0,0,0,,Huh? What's with that glow?{Is that on fire?}
+Dialogue: 149,1:25:43.40,1:25:45.37,Default,,0,0,0,,That's the Flame of Scorpio.
+Dialogue: 149,1:25:46.00,1:25:48.04,Default,QC,0,0,0,,I've heard a lot about it.
+Dialogue: 149,1:25:48.98,1:25:50.92,Default,,0,0,0,,What's the Flame of Scorpio?
+Dialogue: 149,1:25:52.96,1:25:55.42,Default,,0,0,0,,It's a scorpion that burned to death.
+Dialogue: 149,1:25:55.42,1:25:58.67,Default,,0,0,0,,It was so hot that it burns to this day.
+Dialogue: 149,1:25:59.20,1:26:01.48,Default,,0,0,0,,Scorpions are really bad bugs!
+Comment: 149,1:26:02.41,1:26:03.95,Default,,0,0,0,,My teacher told me that...
+Dialogue: 149,1:26:02.41,1:26:06.56,Default,,0,0,0,,My teacher told me that they'll try\Nto sting you with their tail and you can die!
+Dialogue: 149,1:26:06.95,1:26:10.19,Default,,0,0,0,,That's true, but scorpions aren't bad.
+Dialogue: 149,1:26:10.19,1:26:14.93,Default,,0,0,0,,Our father once told us about the scorpion \Nof Baldora Field.
+Dialogue: 149,1:26:14.93,1:26:17.33,Default,QC,0,0,0,,The scorpion survived\Nby preying on weaker insects.{The scorpion killed other bugs and ate them.}{needs more lead-out, coinciding with slightly elevated CPS}
+Dialogue: 149,1:26:18.16,1:26:20.82,Default,,0,0,0,,One day, a weasel found it, \Nand it seemed like it would be eaten.
+Dialogue: 149,1:26:21.56,1:26:26.04,Default,,0,0,0,,The scorpion tried desperately to escape,\Nonly to end up falling in a deep well.
+Dialogue: 149,1:26:26.04,1:26:33.18,Default,QC,0,0,0,,He thought to himself:\N"How often have I preyed on other creatures?"{should be a colon, not a comma -Moe}
+Dialogue: 149,1:26:34.39,1:26:39.65,Default,,0,0,0,,"And now, the one time that\NI was the prey, I fled in utter terror."
+Dialogue: 149,1:26:40.37,1:26:45.39,Default,,0,0,0,,"And look what came of that.\NI'll die in this well, alone."
+Dialogue: 149,1:26:47.43,1:26:50.74,Default,,0,0,0,,"Ah... Life is filled with uncertainty."
+Dialogue: 149,1:26:50.74,1:26:55.90,Default,,0,0,0,,"I could have given the weasel\Nanother day of life with my sacrifice."
+Dialogue: 149,1:26:57.13,1:26:58.76,Default,,0,0,0,,"But now..."
+Dialogue: 149,1:26:59.66,1:27:02.40,Default,,0,0,0,,"my death will help no one."
+Dialogue: 149,1:27:03.70,1:27:07.88,Default,,0,0,0,,"Dear Lord, I beg of you, look into\Nmy heart and hear my prayer."
+Dialogue: 149,1:27:07.88,1:27:10.79,Default,,0,0,0,,"In my next life, \Ndon't allow me to throw my life away in vain."
+Dialogue: 149,1:27:10.79,1:27:18.73,Default,,0,0,0,,"Let me use my body for the true\Nhappiness of everyone in the world."
+Dialogue: 149,1:27:21.20,1:27:28.42,Default,,0,0,0,,And then the scorpion burst into flame.\NA brilliant crimson glow.
+Dialogue: 149,1:27:28.98,1:27:32.73,Default,,0,0,0,,And by the light of his burning body,\Nhe lit up the night forever.
+Dialogue: 149,1:28:19.59,1:28:20.84,Default,,0,0,0,,How beautiful.
+Dialogue: 149,1:28:32.31,1:28:34.37,Default,,0,0,0,,We're at the village of Centaurus!
+Dialogue: 149,1:28:34.94,1:28:37.11,Default,,0,0,0,,Centaurus! The Festival!
+Dialogue: 149,1:28:37.11,1:28:40.53,Default,,0,0,0,,Oh, yeah! It's the Festival of Stars!
+Dialogue: 149,1:28:41.89,1:28:46.18,Default,,0,0,0,,It looks like everyone is out celebrating\Nthe Centaurus Festival tonight.
+Dialogue: 149,1:29:01.48,1:29:05.95,Default,,0,0,0,,We'll be at the Southern Cross soon.\NTime to get ready to go.
+Dialogue: 149,1:29:07.27,1:29:08.86,Default,,0,0,0,,We'll be at the Southern Cross soon.
+Dialogue: 149,1:29:09.91,1:29:11.24,Default,,0,0,0,,We need to get ready to go now.
+Dialogue: 149,1:29:11.64,1:29:14.25,Default,,0,0,0,,I want to stay here on the train!
+Dialogue: 149,1:29:14.77,1:29:17.08,Default,,0,0,0,,I know, but we have to get off here.
+Dialogue: 149,1:29:17.08,1:29:20.78,Default,,0,0,0,,No! I'm staying on the train!\NI want to ride some more!
+Dialogue: 149,1:29:21.26,1:29:25.05,Default,,0,0,0,,I'm sorry, but we have to get off here.
+Dialogue: 149,1:29:25.72,1:29:28.51,Default,,0,0,0,,This is how we get into Heaven.
+Dialogue: 149,1:29:56.67,1:29:58.21,Default,,0,0,0,,Come on, time to go.
+Dialogue: 149,1:30:12.37,1:30:14.68,Default,QC,0,0,0,,Well, then... Goodbye.{consider "Well, then... Goodbye." -Moe}
+Dialogue: 149,1:30:15.44,1:30:17.13,Default,,0,0,0,,Goodbye.
+Dialogue: 149,1:30:17.13,1:30:18.68,Alt,QC,0,0,0,,Goodbye.{If the idea of split lines here was to be visible, use an alt style for this line -Moe}
+Dialogue: 149,1:31:42.61,1:31:45.50,Default,,0,0,0,,I guess it's just the two of us now.
+Dialogue: 149,1:31:50.90,1:31:54.13,Default,,0,0,0,,Hey, let's just keep going like this forever, okay?
+Dialogue: 149,1:31:54.73,1:31:57.87,Default,,0,0,0,,That's right! We'll always be together, won't we?
+Dialogue: 149,1:32:01.12,1:32:03.75,Default,,0,0,0,,Yeah. I'd like that.
+Dialogue: 149,1:32:12.76,1:32:15.63,Default,,0,0,0,,But then again, where exactly are we going, anyway?
+Dialogue: 149,1:32:16.62,1:32:18.55,Default,,0,0,0,,Well, I don't know.
+Dialogue: 149,1:32:19.46,1:32:21.43,Default,QC,0,0,0,,Well, we're in this together!{As long as we're together!}{the hesitation before "We're in this together!" seems inappropriate, so consider just cutting it to that -Moe}
+Dialogue: 149,1:32:39.89,1:32:41.29,Default,,0,0,0,,Hey, look at that!
+Dialogue: 149,1:32:49.64,1:32:53.63,Default,,0,0,0,,It's the Coal Sack. A hole in the sky.
+Dialogue: 149,1:32:58.64,1:33:04.14,Default,,0,0,0,,Hey, don't worry! I'm not afraid of the dark anymore.
+Dialogue: 149,1:33:04.78,1:33:07.12,Default,,0,0,0,,We can get through this, together.{We'll get through this together, won't we?}
+Dialogue: 149,1:33:09.32,1:33:12.27,Default,,0,0,0,,All right. Until the end.{Yeah, I guess you're right then.}
+Dialogue: 149,1:33:15.82,1:33:18.61,Default,,0,0,0,,Look at that lovely field out there.
+Dialogue: 149,1:33:19.62,1:33:20.60,Default,,0,0,0,,Where?
+Dialogue: 149,1:33:26.81,1:33:29.63,Default,,0,0,0,,That must be the field of the Heavens.
+Dialogue: 149,1:33:39.84,1:33:42.56,Default,,0,0,0,,I see now. That's where my mother is. {maybe change "That's probably where my mother is."?}
+Dialogue: 149,1:34:21.77,1:34:26.27,Default,,0,0,0,,We'll always be together, won't we?
+Dialogue: 149,1:34:28.75,1:34:30.15,Default,,0,0,0,,Campanella!
+Dialogue: 149,1:34:36.44,1:34:40.07,Default,,0,0,0,,Campanella! Wait, I'm going with you!
+Dialogue: 149,1:34:43.84,1:34:46.07,Default,,0,0,0,,Goodbye, Giovanni.
+Dialogue: 149,1:34:48.80,1:34:49.25,Default,,0,0,0,,Wait!
+Dialogue: 149,1:34:50.59,1:34:53.98,Default,,0,0,0,,You promised we'd be together forever!
+Dialogue: 149,1:34:58.66,1:35:04.22,Default,,0,0,0,,Open up! Open up!\NCampanella! Campanella!
+Dialogue: 149,1:35:04.22,1:35:07.72,Default,,0,0,0,,Open up! Open up! Campanella!
+Dialogue: 149,1:35:10.37,1:35:13.72,Default,,0,0,0,,Goodbye, Giovanni.
+Dialogue: 149,1:35:15.62,1:35:17.52,Default,,0,0,0,,Campanella...
+Dialogue: 149,1:36:31.92,1:36:35.80,Default,,0,0,0,,Campanella!
+Dialogue: 149,1:37:35.28,1:37:39.21,Default,,0,0,0,,Oh, yeah! Mom's waiting on me for dinner.
+Dialogue: 149,1:38:03.91,1:38:04.90,Default,,0,0,0,,Hello!
+Dialogue: 149,1:38:05.77,1:38:06.83,Default,,0,0,0,,Yeah?
+Dialogue: 149,1:38:07.85,1:38:11.03,Default,,0,0,0,,We didn't get our milk today.
+Dialogue: 149,1:38:11.58,1:38:13.78,Default,,0,0,0,,Oh, I'm terribly sorry.
+Dialogue: 149,1:38:13.78,1:38:17.44,Default,,0,0,0,,I'm afraid I left the calf's gate open \Nthis afternoon.
+Dialogue: 149,1:38:17.44,1:38:21.46,Default,,0,0,0,,He went straight for his mother and drank\Nhalf her milk before I could stop him!
+Dialogue: 149,1:38:22.07,1:38:22.96,Default,,0,0,0,,Here.
+Dialogue: 149,1:38:22.96,1:38:27.06,Default,,0,0,0,,Oh, I see. Thank you very much.
+Dialogue: 149,1:38:27.06,1:38:28.68,Default,,0,0,0,,I'm sorry about that!
+Dialogue: 149,1:38:28.68,1:38:29.61,Default,,0,0,0,,It's all right.
+Dialogue: 149,1:38:59.14,1:39:01.14,Default,,0,0,0,,Marceau, what's wrong?
+Dialogue: 149,1:39:01.14,1:39:04.79,Default,,0,0,0,,Giovanni, hurry!\NEverybody's all down by the river!
+Dialogue: 149,1:39:05.49,1:39:06.34,Default,,0,0,0,,The river?
+Dialogue: 149,1:39:06.34,1:39:09.47,Default,,0,0,0,,Giovanni, Campanella fell in the river!
+Dialogue: 149,1:39:10.57,1:39:13.60,Default,,0,0,0,,Zanelli was standing in one of the boats
+Dialogue: 149,1:39:13.60,1:39:17.01,Default,,0,0,0,,and he leaned out to\Nput his lantern in the water,
+Dialogue: 149,1:39:17.01,1:39:20.53,Default,,0,0,0,,but the boat lurched and Zanelli\Nfell in and started to sink!
+Dialogue: 149,1:39:20.53,1:39:23.31,Default,,0,0,0,,Campanella dove right in after him!
+Dialogue: 149,1:39:23.31,1:39:26.37,Default,,0,0,0,,He swam down and pushed\NZanelli back to the boat!
+Dialogue: 149,1:39:26.37,1:39:30.16,Default,,0,0,0,,Kato pulled Zanelli back to safety, but by then...
+Dialogue: 149,1:39:30.78,1:39:33.24,Default,,0,0,0,,By then, Campanella had disappeared!
+Dialogue: 149,1:39:33.88,1:39:37.16,Default,,0,0,0,,Everyone in town is searching for him.\NHis father's there, too.
+Dialogue: 149,1:39:37.87,1:39:43.00,Default,,0,0,0,,But they haven't found him!\NThey took Zanelli home, already.
+Dialogue: 149,1:40:58.95,1:41:03.37,Default,,0,0,0,,Well, he could be further downstream by now.
+Dialogue: 149,1:41:08.09,1:41:12.94,Default,,0,0,0,,No. It's no use now.\NIt's been 45 minutes since he fell in.
+Dialogue: 149,1:41:14.98,1:41:15.97,Default,,0,0,0,,In that case...
+Dialogue: 149,1:41:47.39,1:41:48.77,Default,,0,0,0,,Campanella...
+Dialogue: 149,1:41:52.01,1:41:54.64,Default,,0,0,0,,Giovanni, I didn't see you there.
+Dialogue: 149,1:41:55.30,1:41:57.38,Default,,0,0,0,,Thanks for what you've done tonight.
+Dialogue: 149,1:41:59.80,1:42:03.34,Default,,0,0,0,,I've been meaning to ask you, \Nhas your father come home yet?
+Dialogue: 149,1:42:03.34,1:42:04.37,Default,,0,0,0,,No.
+Dialogue: 149,1:42:05.53,1:42:06.96,Default,,0,0,0,,I wonder what's wrong.
+Dialogue: 149,1:42:06.96,1:42:10.81,Default,,0,0,0,,He seemed very happy in the letter\NI got from him just a few days ago.
+Dialogue: 149,1:42:13.02,1:42:15.68,Default,,0,0,0,,He should have been home today.
+Dialogue: 149,1:42:15.68,1:42:17.62,Default,,0,0,0,,Maybe his boat is late.
+Dialogue: 149,1:42:20.05,1:42:23.26,Default,,0,0,0,,Giovanni. If you're up for it,
+Dialogue: 149,1:42:23.26,1:42:26.58,Default,,0,0,0,,you and your friends should come over\Nfor a visit at my house sometime.
+Dialogue: 99,1:42:34.17,1:42:38.16,Thought,QC,0,0,0,,I know Campanella is out there.{is there any particular reason the "Thought" style is not used here? It was previously used in a similar situation in line 182. -Moe}
+Dialogue: 99,1:42:38.16,1:42:40.88,Thought,,0,0,0,,He's there, at the edge of the universe.
+Dialogue: 99,1:42:42.19,1:42:45.03,Thought,,0,0,0,,I know because we explored it together.
+Dialogue: 99,1:43:09.88,1:43:10.91,Thought,,0,0,0,,I...
+Dialogue: 99,1:43:13.67,1:43:16.49,Thought,QC,0,0,0,,I vow to be like that scorpion.{mistimed, way more lead-in needed, starts in the middle of the first bit of the line. -Moe}
+Dialogue: 99,1:43:16.49,1:43:19.36,Thought,,0,0,0,,For the true happiness of everyone...
+Dialogue: 99,1:43:19.36,1:43:22.99,Thought,,0,0,0,,I will let my body burn a hundred times over.
+Dialogue: 99,1:43:23.94,1:43:25.29,Thought,,0,0,0,,Campanella...
+Dialogue: 99,1:43:29.91,1:43:33.25,Thought,,0,0,0,,No matter where I go, we'll always be together.
+Dialogue: 149,1:45:21.95,1:45:24.83,Default,,0,0,0,,The occurrence that is myself
+Dialogue: 149,1:45:25.57,1:45:29.40,Default,,0,0,0,,is like the turquoise illumination
+Dialogue: 149,1:45:29.40,1:45:32.44,Default,,0,0,0,,of an organic alternating-current lamp.
+Dialogue: 149,1:45:33.70,1:45:38.39,Default,,0,0,0,,A compound of countless pellucid spirits.
+Dialogue: 149,1:45:39.99,1:45:50.50,Default,,0,0,0,,Continuously, it shines on and on,\Nin unison with every other being.
+Comment: 149,1:45:43.59,1:45:47.20,Default,,0,0,0,,The electricity alternates between on and off,
+Comment: 149,1:45:47.20,1:45:50.50,Default,,0,0,0,,yet it looks as though it is always alight.
+Dialogue: 149,1:45:50.50,1:45:56.03,Default,QC,0,0,0,,It is the turquoise illumination\N of an intricate alternating-current lamp.{double-check lead-out, as it seems a bit long -Moe}
+Dialogue: 149,1:45:57.75,1:46:01.61,Default,QC,0,0,0,,Though the lamp will be lost,\Nits light will remain.{double-check lead-in, seems too long -Moe}
+Dialogue: 149,1:46:03.18,1:46:08.69,Default,QC,0,0,0,,This is the product of paper and mineral ink\Nguided by the last 22 months of time,{slightly more lead-in and lead-out -Moe}
+Dialogue: 149,1:46:08.69,1:46:11.92,Default,QC,0,0,0,,and the sensations I felt during that period.{slightly less lead-in, coincides with the previous line -Moe}
+Dialogue: 149,1:46:12.79,1:46:19.76,Default,QC,0,0,0,,Sensations brought upon by the universe around me—\Nones that every other being could also feel.{just \N after the dash, and double check lead-out, as it seems a bit long -Moe}
+Comment: 149,1:46:16.91,1:46:20.21,Default,,0,0,0,,every other sentient being feels it, too.{using "everyone around me" to call back to the 1:45:43 line}
+Dialogue: 149,1:46:21.13,1:46:26.97,Default,,0,0,0,,It is a mental sketch of the dark and the light{keeping "mental sketch" since it's a term Miyazawa uses a lot}
+Dialogue: 149,1:46:26.97,1:46:30.77,Default,,0,0,0,,as they have remained with me until today.
